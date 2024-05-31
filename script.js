@@ -1,5 +1,6 @@
 const byteSize = (str) => {
   // write your code here
+	let str=string.charCodeAt(index); 
 };
 
 // Do not change the code below
